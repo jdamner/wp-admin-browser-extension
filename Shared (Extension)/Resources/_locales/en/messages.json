@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "WordPress Admin Toggle",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Click this button to access the WordPress Admin at any time!",
+        "description": "Description of what the extension does."
+    }
+}
